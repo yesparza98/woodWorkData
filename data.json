@@ -1,0 +1,28 @@
+{
+    "woodData": [
+        {
+            "title": "Birch",
+            "year": 2004,
+            "by": "Ron Swanson",
+            "image": "images/birch.jpg"
+        },
+        {
+            "title": "Oak", 
+            "year": 2004, 
+            "by": "Ron Swanson", 
+            "image": "images/oak.jpg"
+        },
+        {
+            "title": "Cherry", 
+            "year": 2005, 
+            "by": "Ron Swanson", 
+            "image": "images/cherry.jpg"
+        },
+        {
+            "title": "Pine", 
+            "year": 2006, 
+            "by": "Ron Swanson", 
+            "image": "images/pine.jpg"
+        }
+    ]
+}
